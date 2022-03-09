@@ -6,13 +6,6 @@
 - 👀 I’m interested in learning averything
 - 🌱 2022 goal : create more side projects and collaborate on at least one open source project
 
-### Connect with me :
-
-
-
-
-<br />
-
 ### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
