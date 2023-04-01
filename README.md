@@ -3,7 +3,7 @@
 ## I'm a Developer 
 
 - 👋 I'm currently working at Luko
-- 👀 I’m interested in learning averything
+- 👀 I’m interested in learning everything
 - 🌱 2022 goal : create more side projects and collaborate on at least one open source project
 
 ### Languages and Tools :
