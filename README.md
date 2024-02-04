@@ -2,9 +2,6 @@
 
 ## I'm a Developer 
 
-- 👋 I'm currently working at Luko
-- 👀 I’m interested in learning everything
-
 ### Languages and Tools :
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
